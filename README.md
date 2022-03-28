@@ -18,23 +18,23 @@ To make this powerful amplifier circuit, we need to use some electronics compone
 Component List – 
 
 1. Sound IC – TDA 2030
-2. 
-3. Capacitor  - 10µf/ 50v
+
+2. Capacitor  - 10µf/ 50v
 		            1µf/ 50v
                 
-2. Resistor –  220 Ω,
+3. Resistor –  220 Ω,
 		           680 Ω,
 		          18 K Ω
               
-3. Mylar Polyester Film Capacitor – 2A 104J 
+4. Mylar Polyester Film Capacitor – 2A 104J 
 
-4. Sound Speaker
+5. Sound Speaker
 
-5. Audio Input Cable 
+6. Audio Input Cable 
 
-6. PCB (made by JLCPCB)
+7. PCB (made by JLCPCB)
 
-7. Power Supply
+8. Power Supply
 
 
 
